@@ -1,0 +1,46 @@
+﻿body {
+  background-color: #ffffff;
+  margin: auto;
+  text-align: left;
+}
+
+#green {
+  color: #49ad10;
+  text-decoration: underline;
+
+}
+
+#red {
+  color: #fc0202;
+
+}
+
+#black {
+  text-decoration: underline overline;
+
+}
+
+#tall {
+  font-size: 26px;
+  font-weight: bolder;
+}
+
+#blue {
+  color: #0000FF;
+  font-size: 20px;
+
+}
+
+#last {
+  color: #fc0202;
+  font-size: 20px;
+  text-decoration: underline;
+
+}
+
+#name {
+  text-align: left;
+  font-weight: bolder;
+
+}
+
